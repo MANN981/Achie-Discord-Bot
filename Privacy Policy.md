@@ -34,10 +34,6 @@ While reasonable precautions are taken to protect collected information, complet
 
 User data is retained only as long as necessary to provide services and may be deleted upon user request.
 
-## Children's Privacy
-
-Achie Bot is not intended for individuals under the age of 13. If you suspect a child has provided personal information, please contact the developer.
-
 ## Changes to this Privacy Policy
 
 This Privacy Policy may be updated periodically. Any changes will be effective immediately upon posting.
